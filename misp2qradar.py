@@ -14,9 +14,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 #------*****------#
 
 misp_auth_key = "[AUTH-KEY]"
-qradar_auth_key = [AUTH-KEY]"
+qradar_auth_key = "[AUTH-KEY]"
 qradar_ref_set = sys.argv[1]
-misp_server = [SERVER]"
+misp_server = "[SERVER]"
 qradar_server = "[QRADAR]"
 
 #------*****------#
